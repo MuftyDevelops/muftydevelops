@@ -1,6 +1,6 @@
 # Hi, I'm Muftawu Muhammed Abdullahi! 👋
 
-**Aspiring Software Engineer | Web Developer | Tech Content Creator**
+**Full-Stack Web Developer | Web3 | Tech Content Creator**
 
 🎓 **CS Student & Tech Enthusiast**  
 I'm currently pursuing a Computer Science degree and have completed an IT diploma. Passionate about software engineering, web development, and tech education, I'm on a mission to inspire and educate beginners in the tech space.
@@ -37,9 +37,7 @@ I'm currently pursuing a Computer Science degree and have completed an IT diplom
 - **LinkedIn:** [Muftawu Abdullahi](https://www.linkedin.com/in/muftawu-abdullahi)  
 - **X (Twitter):** [@Muftawu](https://twitter.com/muftawu)  
 - **Instagram:** [@MuftawuAbdullahi](https://instagram.com/muftawuabdullahi)
+- **TikTok:** [MuftyDevelops](https://www.tiktok.com/@muftydevelops)
 
----
-> _"Learning, Building, and Inspiring the Next Generation of Developers."_
 
-💡 Open for collaborations and internships! Feel free to reach out!
 
