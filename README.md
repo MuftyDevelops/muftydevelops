@@ -8,7 +8,7 @@
 
 ### 🛠️ **Tech Stack & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/iconsi=html,css,bootstrap,tailwindcss,js,ts,react,flutter,nodejs,express,mysql,postgres,python,python,git,github,motoko,vscode,figma,docker,linux,etherium," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,flutter,nodejs,express,tailwindcss,mysql,postgres,python,cpp,git,github,vscode,motoko,aws,figma,docker" alt="Tech Stack" />
 </div>
 
 ---
