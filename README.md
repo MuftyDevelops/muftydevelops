@@ -1,14 +1,14 @@
 <h1 align="center"> Hi, I'm Muftawu Muhammed Abdullahi! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A400&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%7C+Tech+Content+Creator;Building+Awesome+Web+Experiences;Always+Learning+%7C+JavaScript+%7C+AI+%7C+Flutter" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A400&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%7C+Tech+YouTuber;Building+Awesome+Web+Experiences;Always+Learning+%7C+JavaScript+%7C+AI+%7C+Flutter" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 🛠️ **Tech Stack & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,flutter,nodejs,express,mongodb,mysql,postgres,python,cpp,git,github,vscode,figma,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/iconsi=html,css,bootstrap,tailwindcss,js,ts,react,flutter,nodejs,express,mysql,postgres,python,python,git,github,motoko,vscode,figma,docker,linux,etherium," alt="Tech Stack" />
 </div>
 
 ---
