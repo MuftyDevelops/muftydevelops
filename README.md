@@ -9,23 +9,23 @@
 ### 🛠️ **Tech Stack & Tools**
 ### ***FRONTEND***
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,flexbox,grid,bootstrap,tailwind,js,ts,jquery,react.js,figma," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,js,ts,jquery,figma," alt="Tech Stack" />
 </div>
 
 
 **BACKEND**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,express.js,ejs,rest,api,sql,postgre,authentication" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,ejs,rest,cli,mysql,postgres,authentication" alt="Tech Stack" />
 </div>
 
 **LANGUAGES**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,nodejs,mysql,python,cpp,java,aws,figma,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,nodejs,mysql,python,cpp,java,figma," alt="Tech Stack" />
 </div>
 
 **OTHER TECHNOLOGIES**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs,express,mysql,postgres,python,cpp,git,github,vscode,web3,aws,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nft,token,blockchain,mysql,git,github,jetbrain,vscode,web3,aws,docker" alt="Tech Stack" />
 </div>
 
 ---
