@@ -9,13 +9,13 @@
 ### 🛠️ **Tech Stack & Tools**
 ### ***FRONTEND***
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,js,ts,next," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,next," alt="Tech Stack" />
 </div>
 
 
 **BACKEND**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,ejs,rest,cli,mysql,postgres,authentication" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,sql,postgres,authentication" alt="Tech Stack" />
 </div>
 
 **LANGUAGES**
