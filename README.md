@@ -15,12 +15,12 @@
 
 **BACKEND**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,sql,postgres,authentication" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,postgres,aoth" alt="Tech Stack" />
 </div>
 
 **LANGUAGES**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,nodejs,mysql,python,cpp,java,figma," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,nodejs,python,cpp,java," alt="Tech Stack" />
 </div>
 
 **OTHER TECHNOLOGIES**
