@@ -7,20 +7,20 @@
 ---
 
 ### 🛠️ **Tech Stack & Tools**
-                                                    **FRONTEND**
+ **FRONTEND :**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,next," alt="Tech Stack" />
 </div>
 
 
-**BACKEND**
+**BACKEND :**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,npm,express,postgres,mongodb," alt="Tech Stack" />
 </div>
 
 **LANGUAGES**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,dart,nodejs,python,cpp,java," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,nodejs,python,cpp,java,cursor," alt="Tech Stack" />
 </div>
 
 **OTHER TECHNOLOGIES**
