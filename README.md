@@ -9,7 +9,7 @@
 ### 🛠️ **Tech Stack & Tools**
 ### ***FRONTEND***
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,js,ts,jquery,figma," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,js,ts,next," alt="Tech Stack" />
 </div>
 
 
