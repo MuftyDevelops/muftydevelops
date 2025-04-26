@@ -11,7 +11,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/muftydevelops"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://tiktok.com/@muftydevelops"><img width="32px" alt="Tiktok" title="Tiktok" src="<i class="fa-brands fa-tiktok" style="color: #37ff00;"></i>"/></a>
+  <a href="https://tiktok.com/@muftydevelops"><img width="32px" alt="Tiktok" title="Tiktok" src="<i class="fa-brands fa-tiktok style="color:#37ff00"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="https://instagram.com/muftydevelops"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;  
