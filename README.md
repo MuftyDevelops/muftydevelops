@@ -8,15 +8,16 @@ ABOUT ME
 Hi, I'm Mufty — a passionate Computer Science student, full-stack web developer in training, and tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community.
 
 ---
+## 🌐 Connect with Me
 <div align="center">
   <a href="https://youtube.com/@muftydevelops" target="_blank"><img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://x.com/muftydevelops" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/muftydevelops" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://youtube.com/@muftydevelops" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://tiktok.com/@muftydevelops" target="_blank"><img src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://github.com/muftydevelops" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://tiktok.com/@muftydevelops" target="_blank"><img src="https://img.shields.io/badge/TikTok-181717?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://instagram.com/muftydevelops" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 </div>
-## 🌐 Connect with Me
+
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/yourchannel)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
