@@ -16,6 +16,13 @@ Hi, I'm Mufty — a passionate Computer Science student, full-stack web develope
   <a href="https://tiktok.com/@muftydevelops" target="_blank"><img src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="https://github.com/muftydevelops" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
+## 🌐 Connect with Me
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/yourchannel)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
+
 
 
 ### 🛠️ **Tech Stack & Tools**
