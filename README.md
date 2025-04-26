@@ -19,7 +19,7 @@ I'm passionate Computer Science student, full-stack web developer in training, a
 
 ### 🛠️ **Tech Stack & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,nodejs,npm,express,postgres,dart,python,cpp,java," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,nodejs,npm,express,postgres,dart,python,java," alt="Tech Stack" />
 </div>
 
 ---
