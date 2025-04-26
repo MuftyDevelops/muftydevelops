@@ -19,34 +19,13 @@ Hi, I'm Mufty — a passionate Computer Science student, full-stack web develope
 </div>
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/yourchannel)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-
 
 ### 🛠️ **Tech Stack & Tools**
  **FRONTEND :**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,next," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,nodejs,npm,express,postgres,mongodb,js,ts,dart,nodejs,python,cpp,java,cursor," alt="Tech Stack" />
 </div>
 
-
-**BACKEND :**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,postgres,mongodb," alt="Tech Stack" />
-</div>
-
-**LANGUAGES**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,dart,nodejs,python,cpp,java,cursor," alt="Tech Stack" />
-</div>
-
-**OTHER TECHNOLOGIES**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,vscode,aws,docker,linux," alt="Tech Stack" />
-</div>
 
 ---
 
@@ -56,11 +35,6 @@ Hi, I'm Mufty — a passionate Computer Science student, full-stack web develope
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark" alt="GitHub Trophies" />
 </div>
-
----
-
-### 🌎 **Find Me Here**
-
 
 ---
 
