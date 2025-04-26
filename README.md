@@ -7,6 +7,10 @@
 I'm passionate Computer Science student, full-stack web developer in training, and tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community.   Visit my Channel: [https://www.youtube/@muftydevelops]
 
 ---
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 <div align="center">
   <a href="https://youtube.com/@muftydevelops" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://x.com/muftydevelops" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
