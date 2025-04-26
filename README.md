@@ -1,10 +1,10 @@
-<h1 align="center"> Hi, I'm Muftawu Muhammed Abdullahi! 👋</h1>
+<h1 align="center"> Welcome to Muftawu Abdullahi's Page! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A400&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%7C+Tech+YouTuber;Building+Awesome+Web+Experiences;Always+Learning+%7C+JavaScript+Web3+%7C+AI+%7C+Flutter" alt="Typing Animation" />
 </p>
 
-I'm passionate Computer Science student, full-stack web developer in training, and tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community.   Visit my Channel: [https://www.youtube/@muftydevelops]
+I'm passionate Computer Science student, IT diploma holder, full-stack web developer, and Tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community. Visit my Channel: [https://www.youtube/@muftydevelops]
 
 ---
  <p align="center">
@@ -38,6 +38,7 @@ I'm passionate Computer Science student, full-stack web developer in training, a
 </div>
 
 ---
+**📺 Latest YouTube Videos**
 
 ### 🚀 **GitHub Stats & Achievements**
 <div align="center">
