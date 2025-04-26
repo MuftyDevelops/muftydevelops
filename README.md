@@ -3,11 +3,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A400&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%7C+Tech+YouTuber;Building+Awesome+Web+Experiences;Always+Learning+%7C+JavaScript+Web3+%7C+AI+%7C+Flutter" alt="Typing Animation" />
 </p>
-
-## About Me  
-![My Avatar](https://raw.githubusercontent.com/muftydevelops/your-username/main/)
+---
+### About Me
+Hi, I'm Mufty — a passionate Computer Science student, full-stack web developer in training, and tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community.
 
 ---
+<a href="https://youtube.com/@muftydevelops" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 ### 🛠️ **Tech Stack & Tools**
  **FRONTEND :**
