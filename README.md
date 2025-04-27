@@ -4,6 +4,8 @@
 </h1>
 
 <!-- Social icons section -->
+![icons8-linkedin-500](https://github.com/user-attachments/assets/0e222d62-c727-46c1-9627-66f092a5fb7d)
+
 <p align="center">
   <a href="https://youtube.com/@muftydevelops"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
