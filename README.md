@@ -23,6 +23,7 @@
 I'm passionate Computer Science student, IT diploma holder, full-stack web developer, and Tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community.  <a href="https://youtube.com/@muftydevelops" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
   </a>
+---
 <p align="center">
   <a href="https://www.youtube.com/@muftydevelops?sub_confirmation=1">
     <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
@@ -39,20 +40,18 @@ I'm passionate Computer Science student, IT diploma holder, full-stack web devel
   <a href="https://github.com/muftydevelops">
     <img alt="Profile Views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
-
 ---
 ### 🛠️ MY Tech Stack 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,nodejs,npm,express,postgres,dart,python,java," alt="Tech Stack" />
 </div>
-
 ----
-
----
-**📺 Latest YouTube Videos**
+***📺 Latest YouTube Videos***
 <!-- BEGIN YOUTUBE-CARDS -->
 
 <!-- END YOUTUBE-CARDS -->
+
+---
 
 ### 🚀 **GitHub Stats & Achievements**
 <div align="center">
