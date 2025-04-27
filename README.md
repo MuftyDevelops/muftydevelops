@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/muftydevelops"><img width="32px" alt="Twitter X" title="Twitter X" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/"><img width="32px" alt="Discord" title="Join my Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/channels/1354214729572159629/1354214730440638534"><img width="32px" alt="Discord" title="Join my Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.tiktok.com/@muftydevelops"><img width="32px" alt="TikTok" title="TikTok" src="https://i.imgur.com/5oZ5Dfv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
