@@ -1,6 +1,6 @@
 <h1 align="center" color:#00ff00> Welcome to Muftawu Abdullahi's Page! 👋</h1>
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Full-Stack+Web+Developer;Tech+YouTuber;IT+%26+Computer+Science+Student;Passionate+Software+Engineer;Open-Source+Contributor;Future+Tech+Innovator;Coding+Motivator+%26+Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Software+Engineer;Tech+YouTuber;IT+%26+Computer+Science+Student;Open-Source+Contributor;Tech+Innovator;%26+Content+Creator" alt="Typing SVG" />
 </h2>
 
 <!-- Social icons section -->
@@ -41,7 +41,7 @@ I'm passionate Computer Science student, IT diploma holder, full-stack web devel
 ---
 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![I Asked Software Developers What They Actually Do.](https://ytcards.demolab.com/?id=t3GQiZMLPUg&title=OpenAI+ACTUALLY+made+something+open+source.&lang=en&timestamp=1744928104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587 "OpenAI ACTUALLY made something open source.")](https://youtu.be/os5xpGgonJo)
+[![I Asked Software Developers What They Actually Do](https://ytcards.demolab.com/?id=t3GQiZMLPUg&title=OpenAI+ACTUALLY+made+something+open+source.&lang=en&timestamp=1744928104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587 "OpenAI ACTUALLY made something open source.")](https://youtu.be/os5xpGgonJo)
 [![I built 5 apps... in 5 different languages](https://ytcards.demolab.com/?id=7OPLE0cF8JU&title=I+built+5+apps...+in+5+different+languages&lang=en&timestamp=1744902011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=398 "I built 5 apps... in 5 different languages")](https://youtu.be/gRPuwlyad5A)
 [![One Shot AI Coding](https://ytcards.demolab.com/?id=27GYfREZdeU&title=One+Shot+AI+Coding&lang=en&timestamp=1744281001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=88 "One Shot AI Coding")](https://youtu.be/_K4Ucd_RUSs)
 [![C# is Java done right](https://ytcards.demolab.com/?id=Kj22GriXU9s&title=C%23+is+Java+done+right&lang=en&timestamp=1744210826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231 "C# is Java done right")](https://youtu.be/wAPtwNzt3pw)
