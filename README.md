@@ -34,11 +34,12 @@ I'm Muftawu Abdullahi, a passionate Computer Science student, IT diploma holder,
   <a href="https://github.com/muftydevelops">
     <img alt="Profile Views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
-<div align="center">
+---
   <h4>MY Tech Stack</h4>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,nodejs,npm,express,postgres,dart,python,java," alt="Tech Stack" />
 </div>
-----
+---
 <!-- BEGIN YOUTUBE-CARDS -->
 <h3>🎥 Latest YouTube Videos</h3>
 
@@ -50,17 +51,15 @@ I'm Muftawu Abdullahi, a passionate Computer Science student, IT diploma holder,
 [![CEO of Multiple Tech Startups Reveals Secrets to Industry Success! MUST-WATCH](https://ytcards.demolab.com/?id=gRPuwlyad5A&title=CEO+of+Multiple+Tech+Startups+Reveals+Secrets+to+Industry+Success!+MUST-WATCH&lang=en&timestamp=1713994800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=540 "CEO of Multiple Tech Startups Reveals Secrets to Industry Success! MUST-WATCH")](https://youtu.be/gRPuwlyad5A)
 
 <!-- END YOUTUBE-CARDS -->
-----
+
 # 📈 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuftyDevelops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="500"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MuftyDevelops&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="500"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuftyDevelops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500"/>
 </p>
