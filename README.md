@@ -36,7 +36,7 @@ I'm Muftawu Abdullahi, a passionate Computer Science student, IT diploma holder,
 </p>
 
   <h4>MY Tech Stack</h4>
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,nodejs,npm,express,postgres,dart,python,java," alt="Tech Stack" />
 </div>
 
