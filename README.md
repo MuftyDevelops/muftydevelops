@@ -4,11 +4,10 @@
 </h1>
 
 <!-- Social icons section -->
-
 <p align="center">
   <a href="https://youtube.com/@muftydevelops"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/muftydevelops/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/667549cf-f9eb-4169-8825-ecc475d69338"/></a>
+  <a href="https://www.linkedin.com/in/muftydevelops/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/9a393d38-e140-430c-85d4-eed7e0bbd651"/></a>
   <a href="https://twitter.com/muftydevelops"><img width="32px" alt="Twitter X" title="Twitter X" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/channels/1354214729572159629/1354214730440638534"><img width="32px" alt="Discord" title="Join my Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
