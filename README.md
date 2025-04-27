@@ -34,9 +34,10 @@ I'm passionate Computer Science student, IT diploma holder, full-stack web devel
   <a href="https://github.com/muftydevelops">
     <img alt="Profile Views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
----
-### 🛠️ MY Tech Stack 
+-----
+
 <div align="center">
+  <h4>MY Tech Stack</h4>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,nodejs,npm,express,postgres,dart,python,java," alt="Tech Stack" />
 </div>
 ----
@@ -59,7 +60,9 @@ I'm passionate Computer Science student, IT diploma holder, full-stack web devel
 ### 📈 **Top Projects**
 Check out some of my featured projects:  
 ⭐ [Project 1](https://github.com/YourGitHubUsername/Project1)  
-⭐ [Project 2](https://github.com/YourGitHubUsername/Project2)  
+⭐ [Project 2](https://github.com/YourGitHubUsername/Project2)
+⭐ [Project 3](https://github.com/YourGitHubUsername/Project2) 
+⭐ [Project 4](https://github.com/YourGitHubUsername/Project2)   
 
 ---
 
