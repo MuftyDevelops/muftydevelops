@@ -25,17 +25,22 @@ I'm passionate Computer Science student, IT diploma holder, full-stack web devel
 
 ---
 <p align="center">
-  <a href="https://www.youtube.com/@muftydevelops/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>  
+  <a href="https://www.youtube.com/@muftydevelops?sub_confirmation=1">
+    <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  &#8287;&#8287;
+  <a href="https://www.youtube.com/@muftydevelops">
+    <img alt="YouTube Views" title="Total views on YouTube" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a>
+  &#8287;&#8287;
+  <a href="https://github.com/muftydevelops?tab=repositories&sort=stargazers">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/muftydevelops?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  &#8287;&#8287;
+  <a href="https://github.com/muftydevelops?tab=followers">
+    <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/muftydevelops?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  &#8287;&#8287;
+  <a href="https://github.com/muftydevelops">
+    <img alt="Profile Views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
+
 ----
 ### 🛠️ MY Tech Stack 
 <div align="center">
