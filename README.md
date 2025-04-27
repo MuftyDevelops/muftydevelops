@@ -5,12 +5,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/8bf65a9e-d4ac-46e2-a6cd-47f9a947d3f8)
-
   <a href="https://youtube.com/@muftydevelops"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/muftydevelops/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/muftydevelops/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000"/></a>
   <a href="https://twitter.com/muftydevelops"><img width="32px" alt="Twitter X" title="Twitter X" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/channels/1354214729572159629/1354214730440638534"><img width="32px" alt="Discord" title="Join my Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
