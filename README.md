@@ -1,6 +1,11 @@
 <h1 align="center"> Welcome to Muftawu Abdullahi's Page! 👋</h1>
 
 <p align="center">
+  <a href="https://github.com/muftydevelops">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Muftawu Abdullahi" /></a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A400&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%7C+Tech+YouTuber;Building+Awesome+Web+Experiences;Always+Learning+%7C+JavaScript+Web3+%7C+AI+%7C+Flutter" alt="Typing Animation" />
 </p>
 
