@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to Muftawu Abdullahi's Page! 👋</h1>
+<h1 align="center" color:00ff00> Welcome to Muftawu Abdullahi's Page! 👋</h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Full-Stack+Web+Developer;Tech+YouTuber;IT+%26+Computer+Science+Student;Passionate+Software+Engineer;Open-Source+Contributor;Future+Tech+Innovator;Coding+Motivator+%26+Content+Creator" alt="Typing SVG" />
 </h1>
@@ -18,10 +18,10 @@
   <a href="https://instagram.com/muftydevelops"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/V1F1fFV.png"/></a>
 </p>
 
-
 I'm passionate Computer Science student, IT diploma holder, full-stack web developer, and Tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community.  <a href="https://youtube.com/@muftydevelops" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
   </a>
+  
 ---
 <p align="center">
   <a href="https://www.youtube.com/@muftydevelops?sub_confirmation=1">
