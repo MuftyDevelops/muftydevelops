@@ -7,13 +7,12 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@muftydevelops"><img width="32px" alt="YouTube" title="YouTube" src="![icons8-youtube-100](https://github.com/user-attachments/assets/5c972176-df98-41ac-9203-98ece2a57b02)"/></a>
-  <a href="https://www.linkedin.com/in/muftydevelops/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="![icons8-linkedin-100](https://github.com/user-attachments/assets/195568a5-9a1a-4220-b163-a67e4c29bd6a)"/></a>
-  <a href="https://twitter.com/muftydevelops"><img width="32px" alt="Twitter X" title="Twitter X" src="![icons8-x-logo-100](https://github.com/user-attachments/assets/421bbb16-1831-439d-af9b-1f296cc38041)"/></a>
-  <a href="https://discord.com/channels/1354214729572159629/1354214730440638534"><img width="32px" alt="Discord" title="Join my Discord" src="![icons8-discord-logo-100](https://github.com/user-attachments/assets/e902dc6b-d2b5-47fc-9ce8-076cd85dd7ae)
-"/></a>
-  <a href="https://www.tiktok.com/@muftydevelops"><img width="32px" alt="TikTok" title="TikTok" src="![icons8-tiktok-logo-100](https://github.com/user-attachments/assets/5663097b-6103-4098-82c4-5391a5afe2c2)"/></a>
-  <a href="https://instagram.com/muftydevelops"><img width="32px" alt="Instagram" title="Instagram" src="![icons8-instagram-logo-100](https://github.com/user-attachments/assets/b8a45192-a59c-4a16-8fa8-cfe974ffbc49)"/></a>
+  <a href="https://youtube.com/@muftydevelops"><img width="32px" alt="YouTube" title="YouTube" src="https://github.com/user-attachments/assets/5c972176-df98-41ac-9203-98ece2a57b02"/></a>
+  <a href="https://www.linkedin.com/in/muftydevelops/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/195568a5-9a1a-4220-b163-a67e4c29bd6a"/></a>
+  <a href="https://twitter.com/muftydevelops"><img width="32px" alt="Twitter X" title="Twitter X" src="https://github.com/user-attachments/assets/421bbb16-1831-439d-af9b-1f296cc38041"/></a>
+  <a href="https://discord.com/channels/1354214729572159629/1354214730440638534"><img width="32px" alt="Discord" title="Join my Discord" src="https://github.com/user-attachments/assets/e902dc6b-d2b5-47fc-9ce8-076cd85dd7ae"/></a>
+  <a href="https://www.tiktok.com/@muftydevelops"><img width="32px" alt="TikTok" title="TikTok" src="https://github.com/user-attachments/assets/5663097b-6103-4098-82c4-5391a5afe2c2"/></a>
+  <a href="https://instagram.com/muftydevelops"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/user-attachments/assets/b8a45192-a59c-4a16-8fa8-cfe974ffbc49"/></a>
 </p>
 
 I'm passionate Computer Science student, IT diploma holder, full-stack web developer, and Tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community.  <a href="https://youtube.com/@muftydevelops" target="blank">
