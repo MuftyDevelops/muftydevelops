@@ -5,6 +5,8 @@
 
 <!-- Social icons section -->
 <p align="center">
+  ![image](https://github.com/user-attachments/assets/8bf65a9e-d4ac-46e2-a6cd-47f9a947d3f8)
+
   <a href="https://youtube.com/@muftydevelops"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/muftydevelops/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
