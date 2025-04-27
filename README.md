@@ -18,8 +18,7 @@
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-I'm passionate Computer Science student, IT diploma holder, full-stack web developer, and Tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community. Visit my Channel: <a href="https://www.youtube.com/@muftydevelops"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+I'm passionate Computer Science student, IT diploma holder, full-stack web developer, and Tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community. Visit my Channel:"[muftydevelops][youtube]"
 
 ---
 <p align="center">
@@ -53,6 +52,9 @@ I'm passionate Computer Science student, IT diploma holder, full-stack web devel
 
 ---
 **📺 Latest YouTube Videos**
+<!-- BEGIN YOUTUBE-CARDS -->
+[![]https://www.youtube.com/watch?v=os5xpGgonJo]
+<!-- END YOUTUBE-CARDS -->
 
 ### 🚀 **GitHub Stats & Achievements**
 <div align="center">
