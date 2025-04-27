@@ -38,23 +38,15 @@ I'm Muftawu Abdullahi, a passionate Computer Science student, IT diploma holder,
   <h4>MY Tech Stack</h4>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,nodejs,npm,express,postgres,dart,python,java," alt="Tech Stack" />
 </div>
----
-
-
-📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-# 🎥 Latest YouTube Videos
+# 📺 Latest YouTube Videos
 
 [![I Asked Software Developers What They Actually Do](https://ytcards.demolab.com/?id=os5xpGgonJo&title=I+Asked+Software+Developers+What+They+Actually+Do&lang=en&timestamp=1710536400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=420 "I Asked Software Developers What They Actually Do")](https://youtu.be/os5xpGgonJo)
 
 [![I Asked Software Developers What They Really Do](https://ytcards.demolab.com/?id=_K4Ucd_RUSs&title=I+Asked+Software+Developers+What+They+Really+Do&lang=en&timestamp=1711422800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=370 "I Asked Software Developers What They Really Do")](https://youtu.be/_K4Ucd_RUSs)
-
 [![How Developers Got Hired & How Much They Get Paid! 🤑💰](https://ytcards.demolab.com/?id=wAPtwNzt3pw&title=How+Developers+Got+Hired+%26+How+Much+They+Get+Paid!+%F0%9F%A7%91%F0%9F%92%B0&lang=en&timestamp=1712190400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480 "How Developers Got Hired & How Much They Get Paid! 🤑💰")](https://youtu.be/wAPtwNzt3pw)
-
 [![Want To Break Into Tech - WATCH THIS!](https://ytcards.demolab.com/?id=hXxq-WSIahY&title=Want+To+Break+Into+Tech+-+WATCH+THIS!&lang=en&timestamp=1712795200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=300 "Want To Break Into Tech - WATCH THIS!")](https://youtu.be/hXxq-WSIahY)
-
 [![Want to Become A Developer? - WATCH THIS! (React, Cloud, Blockchain)](https://ytcards.demolab.com/?id=tXqpt5OhoI0&title=Want+to+Become+A+Developer%3F+-+WATCH+THIS!+(React%2C+Cloud%2C+Blockchain)&lang=en&timestamp=1713390000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360 "Want to Become A Developer? - WATCH THIS! (React, Cloud, Blockchain)")](https://youtu.be/tXqpt5OhoI0)
-
 [![CEO of Multiple Tech Startups Reveals Secrets to Industry Success! MUST-WATCH](https://ytcards.demolab.com/?id=gRPuwlyad5A&title=CEO+of+Multiple+Tech+Startups+Reveals+Secrets+to+Industry+Success!+MUST-WATCH&lang=en&timestamp=1713994800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=540 "CEO of Multiple Tech Startups Reveals Secrets to Industry Success! MUST-WATCH")](https://youtu.be/gRPuwlyad5A)
 
 <!-- END YOUTUBE-CARDS -->
