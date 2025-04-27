@@ -1,13 +1,7 @@
 <h1 align="center"> Welcome to Muftawu Abdullahi's Page! 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A400&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%7C+Tech+YouTuber;;;Always+Learning+%7C+JavaScript+Web3+%7C+AI+%7C+Flutter" alt="Typing Animation" />
-</p>
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20and%20Developer;Tech+YouTuber%2FComputer+Science%&%IT;%20;Building+Awesome+Web+Experiences;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Full-Stack+Web+Developer;Tech+YouTuber;IT+%26+Computer+Science+Student;Passionate+Software+Engineer;Open-Source+Contributor;Future+Tech+Innovator;Coding+Motivator+%26+Content+Creator" alt="Typing SVG" />
+</h1>
 
 <!-- Social icons section -->
 <p align="center">
