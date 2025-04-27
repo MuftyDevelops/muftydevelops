@@ -34,12 +34,12 @@ I'm Muftawu Abdullahi, a passionate Computer Science student, IT diploma holder,
   <a href="https://github.com/muftydevelops">
     <img alt="Profile Views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
----
+
   <h4>MY Tech Stack</h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,nodejs,npm,express,postgres,dart,python,java," alt="Tech Stack" />
 </div>
----
+
 <!-- BEGIN YOUTUBE-CARDS -->
 <h3>🎥 Latest YouTube Videos</h3>
 
