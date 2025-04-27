@@ -20,7 +20,9 @@
 </p>
 
 
-I'm passionate Computer Science student, IT diploma holder, full-stack web developer, and Tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community. Visit my Channel:https://youtube.com/@muftydevelops
+I'm passionate Computer Science student, IT diploma holder, full-stack web developer, and Tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community.  <a href="https://youtube.com/@yourchannel" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
+  </a>
 
 
 ---
