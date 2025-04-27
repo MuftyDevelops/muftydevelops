@@ -4,11 +4,13 @@
 </h1>
 
 <!-- Social icons section -->
-![icons8-linkedin-500](https://github.com/user-attachments/assets/0e222d62-c727-46c1-9627-66f092a5fb7d)
 
 <p align="center">
   <a href="https://youtube.com/@muftydevelops"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  ![icons8-linkedin-32](https://github.com/user-attachments/assets/667549cf-f9eb-4169-8825-ecc475d69338)
+
   <a href="https://www.linkedin.com/in/muftydevelops/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000"/></a>
   <a href="https://twitter.com/muftydevelops"><img width="32px" alt="Twitter X" title="Twitter X" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
