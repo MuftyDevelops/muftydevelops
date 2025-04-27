@@ -1,4 +1,4 @@
-<h1 align="center" color:#00ff00> Welcome to Muftawu Abdullahi's Page! 👋</h1>
+<h1 align="center" color:#00ff00> Welcome to Mufty Develops's Page! 👋</h1>
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Software+Engineer;Tech+YouTuber;IT+%26+Computer+Science+Student;Open-Source+Contributor;Tech+Innovator;%26+Content+Creator" alt="Typing SVG" />
 </h2>
@@ -13,7 +13,7 @@
   <a href="https://instagram.com/muftydevelops"><img width="40px" alt="Instagram" title="Instagram" src="https://github.com/user-attachments/assets/b8a45192-a59c-4a16-8fa8-cfe974ffbc49"/></a>
 </p>
 
-I'm passionate Computer Science student, IT diploma holder, full-stack web developer, and Tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community.  <a href="https://youtube.com/@muftydevelops" target="blank">
+I'm Muftawu Abdullahi, a passionate Computer Science student, IT diploma holder, Software developer, and Tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community.  <a href="https://youtube.com/@muftydevelops" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
   </a>
   
@@ -39,22 +39,24 @@ I'm passionate Computer Science student, IT diploma holder, full-stack web devel
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,nodejs,npm,express,postgres,dart,python,java," alt="Tech Stack" />
 </div>
 ---
-<a href="https://youtu.be/os5xpGgonJo" target="_blank">
-  <img align="center" src="https://img.youtube.com/vi/abc123/0.jpg" width="300" />
-</a>
-<a href="https://youtu.be/_K4Ucd_RUSs" target="_blank">
-  <img align="center" src="https://img.youtube.com/vi/def456/0.jpg" width="300" />
-</a>
 
 
 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![I Asked Software Developers What They Actually Do](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "I Asked Software Developers What They Actually Do")](https://youtu.be/os5xpGgonJo)
-[![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Tips+and+advice+for+Computer+Science+students&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Tips and advice for Computer Science students")](https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX)
-[![My Computer Science degree in 13 minutes](https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=My+Computer+Science+degree+in+13+minutes&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "My Computer Science degree in 13 minutes")](https://youtu.be/Dd_4zfmY-aA?si=1AhwiUIamfs6clV3)
-[![How I would learn to code (if I could start over)](https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
-[![How to prep for CS?](https://ytcards.demolab.com/?id=YBMf2o2MVDg&title=How+to+prep+for+CS?+Do+I+need+Maths?&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "How to prep for CS? Do I need Maths?")](https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD)
-[![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How I organise my life with Notion")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7)
+# 🎥 Latest YouTube Videos
+
+[![I Asked Software Developers What They Actually Do](https://ytcards.demolab.com/?id=os5xpGgonJo&title=I+Asked+Software+Developers+What+They+Actually+Do&lang=en&timestamp=1710536400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=420 "I Asked Software Developers What They Actually Do")](https://youtu.be/os5xpGgonJo)
+
+[![I Asked Software Developers What They Really Do](https://ytcards.demolab.com/?id=_K4Ucd_RUSs&title=I+Asked+Software+Developers+What+They+Really+Do&lang=en&timestamp=1711422800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=370 "I Asked Software Developers What They Really Do")](https://youtu.be/_K4Ucd_RUSs)
+
+[![How Developers Got Hired & How Much They Get Paid! 🤑💰](https://ytcards.demolab.com/?id=wAPtwNzt3pw&title=How+Developers+Got+Hired+%26+How+Much+They+Get+Paid!+%F0%9F%A7%91%F0%9F%92%B0&lang=en&timestamp=1712190400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480 "How Developers Got Hired & How Much They Get Paid! 🤑💰")](https://youtu.be/wAPtwNzt3pw)
+
+[![Want To Break Into Tech - WATCH THIS!](https://ytcards.demolab.com/?id=hXxq-WSIahY&title=Want+To+Break+Into+Tech+-+WATCH+THIS!&lang=en&timestamp=1712795200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=300 "Want To Break Into Tech - WATCH THIS!")](https://youtu.be/hXxq-WSIahY)
+
+[![Want to Become A Developer? - WATCH THIS! (React, Cloud, Blockchain)](https://ytcards.demolab.com/?id=tXqpt5OhoI0&title=Want+to+Become+A+Developer%3F+-+WATCH+THIS!+(React%2C+Cloud%2C+Blockchain)&lang=en&timestamp=1713390000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360 "Want to Become A Developer? - WATCH THIS! (React, Cloud, Blockchain)")](https://youtu.be/tXqpt5OhoI0)
+
+[![CEO of Multiple Tech Startups Reveals Secrets to Industry Success! MUST-WATCH](https://ytcards.demolab.com/?id=gRPuwlyad5A&title=CEO+of+Multiple+Tech+Startups+Reveals+Secrets+to+Industry+Success!+MUST-WATCH&lang=en&timestamp=1713994800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=540 "CEO of Multiple Tech Startups Reveals Secrets to Industry Success! MUST-WATCH")](https://youtu.be/gRPuwlyad5A)
+
 <!-- END YOUTUBE-CARDS -->
 
 
