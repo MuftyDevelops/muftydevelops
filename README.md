@@ -1,27 +1,24 @@
 <h1 align="center"> Welcome to Muftawu Abdullahi's Page! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/muftydevelops">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Muftawu Abdullahi" /></a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A400&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%7C+Tech+YouTuber;Building+Awesome+Web+Experiences;Always+Learning+%7C+JavaScript+Web3+%7C+AI+%7C+Flutter" alt="Typing Animation" />
 </p>
 
- <p align="center">
-  <a href="https://www.youtube.com/@muftydevelops"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://youtube.com/@muftydevelops"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/muftydevelops/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/muftydevelops"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://twitter.com/muftydevelops"><img width="32px" alt="Twitter X" title="Twitter X" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://tiktok.com/@muftydevelops"><img width="32px" alt="Tiktok" title="Tiktok" src=""</a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; 
-  <a href="https://instagram.com/muftydevelops"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;  
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/"><img width="32px" alt="Discord" title="Join my Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.tiktok.com/@muftydevelops"><img width="32px" alt="TikTok" title="TikTok" src="https://i.imgur.com/5oZ5Dfv.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/muftydevelops"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/V1F1fFV.png"/></a>
+</p>
+
 
 I'm passionate Computer Science student, IT diploma holder, full-stack web developer, and Tech content creator. I build practical, real-world projects and document my journey through educational, engaging videos on YouTube. My work reflects my growth, creativity, and commitment to mastering software development. Whether coding solutions or creating content, I aim to inspire and add value to the tech community. Visit my Channel:https://youtube.com/@muftydevelops
 
