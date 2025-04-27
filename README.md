@@ -39,14 +39,22 @@ I'm passionate Computer Science student, IT diploma holder, full-stack web devel
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,nodejs,npm,express,postgres,dart,python,java," alt="Tech Stack" />
 </div>
 ---
+<a href="https://youtu.be/os5xpGgonJo" target="_blank">
+  <img align="center" src="https://img.youtube.com/vi/abc123/0.jpg" width="300" />
+</a>
+<a href="https://youtu.be/_K4Ucd_RUSs" target="_blank">
+  <img align="center" src="https://img.youtube.com/vi/def456/0.jpg" width="300" />
+</a>
+
+
 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![I Asked Software Developers What They Actually Do](https://ytcards.demolab.com/?id=t3GQiZMLPUg&title=OpenAI+ACTUALLY+made+something+open+source.&lang=en&timestamp=1744928104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587 "OpenAI ACTUALLY made something open source.")](https://youtu.be/os5xpGgonJo)
-[![I built 5 apps... in 5 different languages](https://ytcards.demolab.com/?id=7OPLE0cF8JU&title=I+built+5+apps...+in+5+different+languages&lang=en&timestamp=1744902011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=398 "I built 5 apps... in 5 different languages")](https://youtu.be/gRPuwlyad5A)
-[![One Shot AI Coding](https://ytcards.demolab.com/?id=27GYfREZdeU&title=One+Shot+AI+Coding&lang=en&timestamp=1744281001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=88 "One Shot AI Coding")](https://youtu.be/_K4Ucd_RUSs)
-[![C# is Java done right](https://ytcards.demolab.com/?id=Kj22GriXU9s&title=C%23+is+Java+done+right&lang=en&timestamp=1744210826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231 "C# is Java done right")](https://youtu.be/wAPtwNzt3pw)
-[![o3-mini refuses to code](https://ytcards.demolab.com/?id=lZs2iuA6Tgw&title=o3-mini+refuses+to+code&lang=en&timestamp=1744118477&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=47 "o3-mini refuses to code")](https://youtu.be/hXxq-WSIahY)
-[![Want to Become A Developer? - WATCH THIS! (React, Cloud, Blockchain)](https://ytcards.demolab.com/?id=KbbXjbX2Hec&title=I+Found+the+Best+A.I.+for+Coding&lang=en&timestamp=1744039808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=908 "I Found the Best A.I. for Coding")](https://youtu.be/tXqpt5OhoI0)
+[![I Asked Software Developers What They Actually Do](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "I Asked Software Developers What They Actually Do")](https://youtu.be/os5xpGgonJo)
+[![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Tips+and+advice+for+Computer+Science+students&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Tips and advice for Computer Science students")](https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX)
+[![My Computer Science degree in 13 minutes](https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=My+Computer+Science+degree+in+13+minutes&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "My Computer Science degree in 13 minutes")](https://youtu.be/Dd_4zfmY-aA?si=1AhwiUIamfs6clV3)
+[![How I would learn to code (if I could start over)](https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
+[![How to prep for CS?](https://ytcards.demolab.com/?id=YBMf2o2MVDg&title=How+to+prep+for+CS?+Do+I+need+Maths?&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "How to prep for CS? Do I need Maths?")](https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD)
+[![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How I organise my life with Notion")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7)
 <!-- END YOUTUBE-CARDS -->
 
 
